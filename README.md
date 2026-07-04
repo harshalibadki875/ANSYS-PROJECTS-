@@ -1,2 +1,2 @@
 # Finite-Element-Analysis-
-This repository focuses on buckling analysis of structural elements using FEA. It includes eigenvalue buckling simulations, critical load determination, mode shape visualization, and comparison with analytical solutions for validation.
+This repository showcases engineering simulation projects completed using ANSYS Workbench and ANSYS Fluent, focusing on structural integrity, vibration analysis, buckling behavior, and fluid flow optimization. The projects demonstrate practical applications of Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD) in aerospace and mechanical engineering through validated simulations, design optimization, and technical documentation.
